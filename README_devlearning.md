@@ -38,6 +38,8 @@ All of the code that you need to successfully complete the Coursera code is with
 
 The course instructor will also be sure to reference the exact folder and name of the file to use throughout the course, so that you can follow along.
 
+# Modern Data Engineering — Learning Journey This repo tracks my hands-on learning with Snowflake and dbt. ## Topics Covered - Snowflake Dynamic Tables - dbt Snapshots (Type-2 SCD) - dbt + Snowflake integration ## Branch Strategy - `dev-learning` — active learning and experiments - `main` — stable, reviewed content
+
 #### Reporting issues or errata
 
 If you encounter technical issues or errata as you complete the course (i.e. typos, missing code, broken links, etc.), please report those issues in the course through Coursera, or [open a a new issue in this repository](https://github.com/Snowflake-Labs/modern-data-engineering-snowflake/issues/new). Ensure the issue contains sufficient detail so that it can be properly addressed.
